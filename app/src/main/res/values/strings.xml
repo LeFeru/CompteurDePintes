@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pintes</string>
+    <string name="t1">"La soirée commence"</string>
+    <string name="t5">Le rythme s\'accèlère</string>
+    <string name="t8">Vous devenez super courageux, plus rien ne vous fait peur</string>
+    <string name="t10">Vous êtes super séduisant</string>
+    <string name="t12">Vous êtes maintenant invunérable</string>
+    <string name="t15">Vous êtes maintenant invisible</string>
+    <string name="t18">3/4 du casier...</string>
+    <string name="t24">Yeah un casier !</string>
+    <string name="t30">Pour rappel, les urgences c\'est le numéro 100</string>
+    <string name="t50">I can see dead people</string>
+    <string name="new_high_score">Quel est le nombre de pintes que tu t\'autorises à boire pour célèbrer cela ?</string>
+    <string name="msg_stop">STOP ! Il est temps de rentrer !</string>
+    <string name="notify_high_score">Génial ! Nouveau meilleur score:</string>
+    <string name="resetScore">Remettre à zéro Score</string>
+    <string name="resetHighScore">Remettre à zéro HighScore</string>
+    <string name="resetLastScore">Remettre à zéro LastScore</string>
+    <string name="quittez">Quittez</string>
+    <string name="noir_et_blanc">Noir et Blanc</string>
+    <string name="blanc_et_noir">Blanc et Noir</string>
+    <string name="rose_et_brun">Rose et Brun</string>
+</resources>

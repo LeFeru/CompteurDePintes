@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/resetScore"
+        android:title="@string/resetScore" />
+    <item android:id="@+id/resetHighScore"
+        android:title="@string/resetHighScore" />
+    <item android:id="@+id/resetLastScore"
+        android:title="@string/resetLastScore" />
+    <item android:id="@+id/noirEtBlanc"
+        android:title="@string/noir_et_blanc" />
+    <item android:id="@+id/blancEtNoir"
+        android:title="@string/blanc_et_noir" />
+    <item android:id="@+id/roseEtBrun"
+        android:title="@string/rose_et_brun" />
+    <item android:id="@+id/quittez"
+        android:title="@string/quittez" />
+
+</menu>
